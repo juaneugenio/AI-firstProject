@@ -24,21 +24,29 @@ The Gemini Clone project is built using React, aiming to offer a seamless experi
 
 1. Clone the repository:
 
-   ```sh
+   ```
    git clone https://github.com/yourusername/gemini-clone.git
 
    ```
 
 2. Navigate to the project directory:
 
-````cd gemini-clone
+```
+cd gemini-clone
+```
 
 3. Install the dependencies:
-```npm install
+
+```
+npm install
+```
 
 4. To start the development server, run:
-``npm run dev
+
+```
+npm run dev
+```
 
 ## Licence
+
 This project is licensed under the MIT License.
-````
